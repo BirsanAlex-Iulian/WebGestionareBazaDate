@@ -1,3 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 add_value.php linguist-language=HTML
+delete_value.php linguist-language=CSS
+edit_value.php linguist-language=JS
