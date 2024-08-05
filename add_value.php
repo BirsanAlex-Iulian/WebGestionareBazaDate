@@ -1,3 +1,4 @@
+<!-- language: lang-html -->
 <?php
 // Database connection variables
 $db_host = "localhost";
